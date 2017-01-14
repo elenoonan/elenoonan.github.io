@@ -1,0 +1,28 @@
+body {
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.navbar-default {
+    background-color: cadetblue;
+}
+
+#bs-example-navbar-collapse-1 {
+    background-color: cadetblue;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 60px;
+    color: darkslategrey;
+}
+
+h2 {
+    color: darkslateblue;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+p {
+    color: darkslateblue;
+}
