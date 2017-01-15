@@ -18,8 +18,9 @@ h1 {
 }
 
 h2 {
-    color: darkslateblue;
+    color: darkslategrey;
     font-family: sans-serif;
+    font-style: italic;
     font-size: 30px;
 }
 
